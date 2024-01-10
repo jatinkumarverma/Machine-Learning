@@ -15,3 +15,4 @@ Feel free to contribute your own notes or improve existing ones!
 If you'd like to contribute to this repository, please follow our contribution guidelines. We welcome contributions ranging from bug fixes to new projects and notes.
 
 Happy coding!
+
