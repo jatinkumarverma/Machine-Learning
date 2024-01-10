@@ -6,7 +6,8 @@ Welcome to the Machine Learning Projects and Notes Repository! This repository i
 
 Explore the following machine learning projects:
 
-1. Purchasing of car.
+1. Purchasing car.
+2. Salary vs Experience
 
 ## Notes
 
