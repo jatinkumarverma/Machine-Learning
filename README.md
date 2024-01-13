@@ -7,6 +7,8 @@ Welcome to the Machine Learning Projects and Notes Repository! This repository i
 Find comprehensive notes on various machine learning topics in the directory. Topics include but are not limited to:
 
 - data preprocessing template.
+- classification templates.
+- regression templates.
 
 Feel free to contribute your own notes or improve existing ones!
 
@@ -15,4 +17,3 @@ Feel free to contribute your own notes or improve existing ones!
 If you'd like to contribute to this repository, please follow our contribution guidelines. We welcome contributions ranging from bug fixes to new projects and notes.
 
 Happy coding!
-
