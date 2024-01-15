@@ -9,6 +9,7 @@ Find comprehensive notes on various machine learning topics in the directory. To
 - data preprocessing template.
 - classification templates.
 - regression templates.
+- NLP template.
 
 Feel free to contribute your own notes or improve existing ones!
 
